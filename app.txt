@@ -1,1 +1,2 @@
 Initial baseline project code
+Adding login automation test cases
